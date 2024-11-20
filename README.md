@@ -1,4 +1,4 @@
-# API Mini lab Melko Timofey 5030102/20201
+# API Mini lab Zhokhov Oleg 5030102/20201
 
 This API is designed to provide information about anime from Animego website.
 
