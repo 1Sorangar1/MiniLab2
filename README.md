@@ -26,15 +26,15 @@ To run the application:
 
 # Endpoints
 
-## NFT
+## Ongoing Anime
 - **Endpoint**: ```/pages/anime_ongoing```
 - **Description**: Get 20 latest ongoing anime names and their links on Animego.
 
-## Exchanges
+## Latest Anime
 - **Endpoint**: ```/pages/anime_latest```
 -  **Description**: Get 20 latest finished anime names and their links on Animego.
 
-## Coins
+## 2023 Anime
 - **Endpoint**: ```/pages/anime_2023```
 - **Description**: Get 20 latest added 2023 anime names and their links on Animego.
 # Postman
